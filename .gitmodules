@@ -1,0 +1,9 @@
+[submodule "external/cppitertools"]
+	path = external/cppitertools
+	url = https://github.com/ryanhaining/cppitertools
+[submodule "external/cxxopts"]
+	path = external/cxxopts
+	url = https://github.com/jarro2783/cxxopts
+[submodule "external/GSL"]
+	path = external/GSL
+	url = https://github.com/microsoft/GSL
